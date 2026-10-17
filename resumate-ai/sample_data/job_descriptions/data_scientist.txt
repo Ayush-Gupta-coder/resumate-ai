@@ -1,0 +1,14 @@
+Role: Data Scientist
+Company: Metro Analytics
+Location: Seattle, WA / Remote
+
+Overview:
+Join our data science squad analyzing high-volume business metrics and deploying predictive machine learning solutions.
+
+Key Requirements:
+- Proven experience with Python, R, and SQL.
+- Strong grounding in Machine Learning algorithms, Scikit-Learn, Pandas, and NumPy.
+- Experience building dashboards in Tableau or Power BI.
+- Database expertise with MySQL, PostgreSQL, or Snowflake.
+- Degree in Mathematics, Statistics, Computer Science or equivalent.
+- Problem Solving and Attention to Detail.

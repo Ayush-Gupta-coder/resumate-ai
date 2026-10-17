@@ -1,0 +1,20 @@
+Role: Full Stack React & Node.js Developer
+Company: Horizon Web Labs
+Location: Austin, TX / Hybrid
+
+About the Position:
+Horizon Web Labs is looking for a talented Full Stack Developer to build responsive, accessible web applications and robust cloud microservices.
+
+Responsibilities:
+- Build modern, interactive user interfaces using React, TypeScript, and Tailwind CSS.
+- Develop scalable backend RESTful APIs using Node.js, Express.js, and PostgreSQL.
+- Write clean, modular code with unit tests and Git version control.
+- Package applications into Docker containers and deploy to AWS.
+
+Requirements:
+- 3+ years experience with React, TypeScript, and JavaScript.
+- Proficiency with Tailwind CSS, Next.js, and state management (Redux).
+- Backend proficiency with Node.js and PostgreSQL.
+- Familiarity with Docker, AWS, and CI/CD pipelines.
+- Bachelor's degree in Computer Science or related degree.
+- Strong Communication and Collaboration skills.

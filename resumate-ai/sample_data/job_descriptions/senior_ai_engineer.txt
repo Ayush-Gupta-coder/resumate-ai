@@ -1,0 +1,25 @@
+Role: Senior AI & Machine Learning Engineer
+Company: CloudScale AI
+Location: San Francisco, CA / Remote
+
+About the Role:
+We are seeking an experienced AI/ML Engineer to lead the design and deployment of large-scale Natural Language Processing systems and LLM workflows. You will collaborate directly with our engineering team to build high-throughput microservices and deliver intelligent product features.
+
+Key Responsibilities:
+- Design, train, and fine-tune deep learning and transformer models using PyTorch and Hugging Face.
+- Build high-performance RESTful APIs with Python and FastAPI.
+- Deploy scalable services using Docker and Kubernetes on AWS cloud infrastructure.
+- Implement automated testing and CI/CD pipelines via GitHub Actions.
+- Optimize inference latency and maintain vector databases.
+
+Required Qualifications & Skills:
+- Strong proficiency in Python, PyTorch, and TensorFlow.
+- Solid experience with Natural Language Processing (NLP) and Large Language Models (LLMs).
+- Demonstrated experience building APIs with FastAPI and Docker containerization.
+- Knowledge of relational databases like PostgreSQL and caching with Redis.
+- Bachelor's or Master's degree in Computer Science, AI, or related field.
+- Excellent Problem Solving and Team Leadership skills.
+
+Preferred Qualifications:
+- Experience with Kubernetes, LangChain, or RAG architecture.
+- AWS certified practitioner or solutions architect.
